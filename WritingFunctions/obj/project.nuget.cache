@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "usZ/cPKER6FQ6Jbl2e84PEfKrfvN1zUmvP+1NYZb13aymFeWtsG4JJ2gfK6RXTtDCB/Yvysl7QpJ6uCsfqNg9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minic\\source\\repos\\ConsoleApp1\\WritingFunctions\\WritingFunctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minic\\.nuget\\packages\\nupengl.core\\0.1.0.1\\nupengl.core.0.1.0.1.nupkg.sha512",
+    "C:\\Users\\minic\\.nuget\\packages\\nupengl.core.redist\\0.1.0.1\\nupengl.core.redist.0.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

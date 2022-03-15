@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WritingFunctions/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1": "1.0.0",
+          "ConsoleApp2": "1.0.0"
+        },
+        "runtime": {
+          "WritingFunctions.dll": {}
+        }
+      },
+      "nupengl.core/0.1.0.1": {
+        "dependencies": {
+          "nupengl.core.redist": "0.1.0.1"
+        }
+      },
+      "nupengl.core.redist/0.1.0.1": {},
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "nupengl.core": "0.1.0.1"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "ConsoleApp2/1.0.0": {
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WritingFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nupengl.core/0.1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lmVmS3KnaSBxJIzucnzGbbcaS/YZ1Cc1Wg4zOpHmKjfXhotbqVHPNsPzuABQmGh1sJJPSrjF31J9jKnY05fwjw==",
+      "path": "nupengl.core/0.1.0.1",
+      "hashPath": "nupengl.core.0.1.0.1.nupkg.sha512"
+    },
+    "nupengl.core.redist/0.1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tkRgrOPkPyDmpYmnUp1KQHCL8+Pu28FAAG7He6AyprtQ8rw0kyOdWwbqQDptpdcbLJamm0kqBSzUmwcGw1Lj3A==",
+      "path": "nupengl.core.redist/0.1.0.1",
+      "hashPath": "nupengl.core.redist.0.1.0.1.nupkg.sha512"
+    },
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
