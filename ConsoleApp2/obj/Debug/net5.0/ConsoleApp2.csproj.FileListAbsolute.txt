@@ -13,3 +13,17 @@ C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2
 C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ref\ConsoleApp2.dll
 C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.pdb
 C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\minic\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CopyComplete
